@@ -1,10 +1,10 @@
 ---
-title: Rotherham MBC Design Manual
+title: Rotherham Town Centre
 timezone: Europe/London
-description: Design System
+description: Development site for Rotherham Town Centre
 
 # URL settings
-baseurl: "/design/"
+baseurl: "/tow-centre/"
 url: "https://rothgov.github.io"
 
 # Build settings
